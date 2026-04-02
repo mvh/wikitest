@@ -1,0 +1,2 @@
+# wikitest
+simple wiki test
